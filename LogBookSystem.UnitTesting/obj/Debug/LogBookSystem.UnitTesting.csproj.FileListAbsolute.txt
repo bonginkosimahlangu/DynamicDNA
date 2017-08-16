@@ -1,0 +1,6 @@
+C:\Users\BMAHLANGU\Desktop\LogBook System\LogbookSystem\LogBookSystem.UnitTesting\bin\Debug\LogBookSystem.UnitTesting.dll
+C:\Users\BMAHLANGU\Desktop\LogBook System\LogbookSystem\LogBookSystem.UnitTesting\bin\Debug\LogBookSystem.UnitTesting.pdb
+C:\Users\BMAHLANGU\Desktop\LogBook System\LogbookSystem\LogBookSystem.UnitTesting\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\BMAHLANGU\Desktop\LogBook System\LogbookSystem\LogBookSystem.UnitTesting\obj\Debug\LogBookSystem.UnitTesting.csprojResolveAssemblyReference.cache
+C:\Users\BMAHLANGU\Desktop\LogBook System\LogbookSystem\LogBookSystem.UnitTesting\obj\Debug\LogBookSystem.UnitTesting.dll
+C:\Users\BMAHLANGU\Desktop\LogBook System\LogbookSystem\LogBookSystem.UnitTesting\obj\Debug\LogBookSystem.UnitTesting.pdb

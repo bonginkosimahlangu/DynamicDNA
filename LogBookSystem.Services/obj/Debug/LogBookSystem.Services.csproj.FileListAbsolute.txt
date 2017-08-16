@@ -1,0 +1,7 @@
+C:\Users\BMAHLANGU\Desktop\LogBook System\LogbookSystem\LogBookSystem.Services\bin\Debug\LogBookSystem.Services.dll
+C:\Users\BMAHLANGU\Desktop\LogBook System\LogbookSystem\LogBookSystem.Services\bin\Debug\LogBookSystem.Services.pdb
+C:\Users\BMAHLANGU\Desktop\LogBook System\LogbookSystem\LogBookSystem.Services\bin\Debug\LogBookSystem.DAL.dll
+C:\Users\BMAHLANGU\Desktop\LogBook System\LogbookSystem\LogBookSystem.Services\bin\Debug\LogBookSystem.DAL.pdb
+C:\Users\BMAHLANGU\Desktop\LogBook System\LogbookSystem\LogBookSystem.Services\obj\Debug\LogBookSystem.Services.csprojResolveAssemblyReference.cache
+C:\Users\BMAHLANGU\Desktop\LogBook System\LogbookSystem\LogBookSystem.Services\obj\Debug\LogBookSystem.Services.dll
+C:\Users\BMAHLANGU\Desktop\LogBook System\LogbookSystem\LogBookSystem.Services\obj\Debug\LogBookSystem.Services.pdb

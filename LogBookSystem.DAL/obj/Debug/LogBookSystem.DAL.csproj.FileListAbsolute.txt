@@ -1,0 +1,7 @@
+C:\Users\BMAHLANGU\Desktop\LogBook System\LogbookSystem\LogBookSystem.DAL\bin\Debug\LogBookSystem.DAL.dll
+C:\Users\BMAHLANGU\Desktop\LogBook System\LogbookSystem\LogBookSystem.DAL\bin\Debug\LogBookSystem.DAL.pdb
+C:\Users\BMAHLANGU\Desktop\LogBook System\LogbookSystem\LogBookSystem.DAL\bin\Debug\LogBookSystem.BusinessEntities.dll
+C:\Users\BMAHLANGU\Desktop\LogBook System\LogbookSystem\LogBookSystem.DAL\bin\Debug\LogBookSystem.BusinessEntities.pdb
+C:\Users\BMAHLANGU\Desktop\LogBook System\LogbookSystem\LogBookSystem.DAL\obj\Debug\LogBookSystem.DAL.csprojResolveAssemblyReference.cache
+C:\Users\BMAHLANGU\Desktop\LogBook System\LogbookSystem\LogBookSystem.DAL\obj\Debug\LogBookSystem.DAL.dll
+C:\Users\BMAHLANGU\Desktop\LogBook System\LogbookSystem\LogBookSystem.DAL\obj\Debug\LogBookSystem.DAL.pdb
